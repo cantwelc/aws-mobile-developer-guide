@@ -95,7 +95,7 @@ To create an OAuth Android client ID
          :scale: 85
 
 
-#. In :guilabel:`Name`, enter a name in the format :code:`com.amazon.mysampleapp Android client ID`.
+#. In :guilabel:`Name`, enter a name in the format :code:`PACKAGE NAME Android client ID`.
 
 #. In :guilabel:`Signing-certificate fingerprint`, enter the SHA-1 fingerprint. For more information
    about Google's process for obtaining your SHA-1 fingerprint, see `this Google support article
@@ -120,8 +120,7 @@ To create an OAuth Android client ID
    See instructions at `Generate a key and keystore
    <https://developer.android.com/studio/publish/app-signing.html#generate-key>`__.
 
-#. In :guilabel:`Package name`, enter the package name in the format
-   :code:`com.amazon.YOUR-PACKAGE-NAME`.
+#. In :guilabel:`Package name`.
 
 #. Choose :guilabel:`Create`.
 
